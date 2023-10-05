@@ -35,25 +35,25 @@
 
 # Problem 3: Circle the error(s) in each sentence below and make the necessary correction.
 
-1. We have three cats. The **cats** litter box is in the basement.
+1. We have three cats. The **cats** litter box is in the basement.  
    We have three cats. The **cats'** litter box is in the basement.
 
-2. All of the teachers went to the restaurant. The **teachers** bill was over five hundred dollars.
+2. All of the teachers went to the restaurant. The **teachers** bill was over five hundred dollars.  
    All of the teachers went to the restaurant. The **teachers'** bill was over five hundred dollars.
 
-3. It's **lady's** night at the bowling hall.
+3. It's **lady's** night at the bowling hall.  
    It's **ladies'** night at the bowling hall.
 
-4. The **kids** rooms are very messy right now.
+4. The **kids** rooms are very messy right now.  
    The **kids'** rooms are very messy right now.
 
-5. The **boxes** labels are mixed up.
+5. The **boxes** labels are mixed up.  
    The **boxes'** labels are mixed up.
 
-6. The last time I saw Dr. Jones, he was at the **nurses** station.
+6. The last time I saw Dr. Jones, he was at the **nurses** station.  
    The last time I saw Dr. Jones, he was at the **nurses'** station.
 
-7. The **childrens** book section is on the third floor.
+7. The **childrens** book section is on the third floor.  
    The **children's** book section is on the third floor.
 
 
@@ -76,26 +76,26 @@
 
 # Problem 5: Circle the error(s) in each sentence below and make the necessary correction.
 
-1. I have **there** phone number in my purse.
+1. I have **there** phone number in my purse.  
    I have **their** phone number in my purse.
 
-2. There're a few **crackers** left in the box.
+2. There're a few **crackers** left in the box.  
    There're a few **cracks** left in the box.
 
-3. Do you know if **their** coming for dinner or not?
+3. Do you know if **their** coming for dinner or not?  
    Do you know if **they're** coming for dinner or not?
 
-4. I won't buy **there** products anymore.
+4. I won't buy **there** products anymore.  
    I won't buy **their** products anymore.
 
-5. A: Is there an onion in the fridge?
+5. A: Is there an onion in the fridge?  
    B: Yes, **there's**.
    B: Yes, **there is**.
 
-6. Have you been swimming in **they're** pool yet?
+6. Have you been swimming in **they're** pool yet?  
    Have you been swimming in **their** pool yet?
 
-7. **Their** is a snake in the garden!
+7. **Their** is a snake in the garden!  
    **There** is a snake in the garden!
 
 # Problem 6: Identify whether the apostrophe is used to show possession or a contraction.
