@@ -18,5 +18,6 @@ touch app.js
 npm init
 npm i express
 npm i body-parser
+npm install body-parser express request
 nodemon app.js or node app.js
 ```
