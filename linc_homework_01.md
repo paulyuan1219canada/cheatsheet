@@ -23,6 +23,7 @@
 
 
 # Problem 2: Write three sentences using "who's" and three sentences using "whose." Write one sentence using both "who's" and "whose."
+
 1. Who's going to the party tonight?
 2. Who's willing to eat buffet this evening?
 3. Do you know who's David's father?
@@ -33,6 +34,7 @@
 
 
 # Problem 3: Circle the error(s) in each sentence below and make the necessary correction.
+
 1. We have three cats. The **cats** litter box is in the basement.
    We have three cats. The **cats'** litter box is in the basement.
 
